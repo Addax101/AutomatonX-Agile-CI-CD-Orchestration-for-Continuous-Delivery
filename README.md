@@ -16,3 +16,7 @@ AutomatonX is an advanced CI/CD pipeline automation framework designed to stream
 To get started with AutomatonX, follow the steps below:
 
 1. **Clone the repository**: 
+   ```bash
+   git clone
+   cd automatonx
+  ```
