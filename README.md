@@ -17,6 +17,6 @@ To get started with AutomatonX, follow the steps below:
 
 1. **Clone the repository**: 
    ```bash
-   git clone
+   git clone https://github.com/Addax101/AutomatonX-Agile-CI-CD-Orchestration-for-Continuous-Delivery.git
    cd automatonx
   ```
