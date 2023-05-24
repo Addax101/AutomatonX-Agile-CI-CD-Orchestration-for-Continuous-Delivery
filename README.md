@@ -19,4 +19,7 @@ To get started with AutomatonX, follow the steps below:
    ```bash
    git clone https://github.com/Addax101/AutomatonX-Agile-CI-CD-Orchestration-for-Continuous-Delivery.git
    cd automatonx
-  ```
+  
+  
+ 2. # Install project dependencies
+npm install
