@@ -21,5 +21,5 @@ To get started with AutomatonX, follow the steps below:
    cd automatonx
   
   
- 2. Install project dependencies
+ 2. Install project dependencies.
   npm install
