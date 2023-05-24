@@ -9,3 +9,4 @@ AutomatonX is an advanced CI/CD pipeline automation framework designed to stream
 - **Component-based Architecture**: Modularize pipeline components such as builders, testers, deployers, and notifiers for easy maintenance and extensibility.
 - **Integration-friendly**: Seamlessly integrate with external tools, cloud platforms, and collaboration platforms for enhanced automation and collaboration.
 - **Comprehensive Monitoring**: Monitor pipeline executions, track metrics, and receive notifications to ensure visibility and timely response.
+- **Extensive Documentation**: Access detailed documentation covering architecture, deployment, usage guidelines, and API references.
