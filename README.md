@@ -23,3 +23,4 @@ To get started with AutomatonX, follow the steps below:
   
  2. Install project dependencies.
   `npm install`
+  3.
